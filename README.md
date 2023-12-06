@@ -50,7 +50,7 @@ To run the project locally using Docker, follow these steps:
 3. Build and start the Docker containers:
 
    ```bash
-   docker-compose up -d
+   docker compose up -d --build
    ```
 4. Access the admin application in your browser:
 
